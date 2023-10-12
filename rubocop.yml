@@ -4,6 +4,7 @@ AllCops:
     - "Guardfile"
     - "Rakefile"
     - "node_modules/**/*"
+    - "solver.rb"
     - "spec/solver_spec.rb"
 
   DisplayCopNames: true
